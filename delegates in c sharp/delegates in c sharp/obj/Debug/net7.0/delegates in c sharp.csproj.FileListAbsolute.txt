@@ -1,0 +1,14 @@
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\obj\Debug\net7.0\delegates in c sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\obj\Debug\net7.0\delegates in c sharp.AssemblyInfoInputs.cache
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\obj\Debug\net7.0\delegates in c sharp.AssemblyInfo.cs
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\obj\Debug\net7.0\delegates in c sharp.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\bin\Debug\net7.0\delegates in c sharp.exe
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\bin\Debug\net7.0\delegates in c sharp.deps.json
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\bin\Debug\net7.0\delegates in c sharp.runtimeconfig.json
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\bin\Debug\net7.0\delegates in c sharp.dll
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\bin\Debug\net7.0\delegates in c sharp.pdb
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\obj\Debug\net7.0\delegates in c sharp.dll
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\obj\Debug\net7.0\refint\delegates in c sharp.dll
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\obj\Debug\net7.0\delegates in c sharp.pdb
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\obj\Debug\net7.0\delegates in c sharp.genruntimeconfig.cache
+C:\Users\asp\source\repos\delegates in c sharp\delegates in c sharp\obj\Debug\net7.0\ref\delegates in c sharp.dll
